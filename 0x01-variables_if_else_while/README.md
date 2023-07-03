@@ -5,4 +5,5 @@ print alphabet
  numbers
 numberz
 smile in the mirror
+hexadecimal
 
