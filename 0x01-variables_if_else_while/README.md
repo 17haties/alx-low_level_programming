@@ -6,4 +6,5 @@ print alphabet
 numberz
 smile in the mirror
 hexadecimal
+print comb
 
