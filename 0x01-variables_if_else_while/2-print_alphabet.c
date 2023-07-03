@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 /**
  * print_alphabet - make the alphabet
  * followed by a new line
